@@ -4,14 +4,21 @@
 
 table guide : <br>
 [1.The purpose of this tutorial](#1) <br>
-[2.The Pros and Cons of this tutorial](#2) <br>
-[3.Things we need in this tutorial](#3) <br>
+[2.Things we need in this tutorial](#3) <br>
+[3.The Pros and Cons of this tutorial](#2) <br>
 [4.Check your phone software version name](#4) <br>
 [5.How to unlock your bootloader](#4) <br>
 
 <a name="1"></a>
 ### the purpose of this tutorial is to help someone who wants to root their samsung phones
 
+<a name="3"></a>
+<details>
+<summary>Things we need in this tutorial :</summary>
+  - a data cable (and also prepare a backup cable)
+  - Your samsung phone of your choice (mine is samsung a12)
+  - and a computer
+</details> <br>
 
 <a name="2"></a>
 before we start rooting our phone we must first understand the pros and cons of rooting
@@ -23,15 +30,6 @@ before we start rooting our phone we must first understand the pros and cons of 
 | run game cheating software for unlimited gems,diamonds,money, and tokens (like GameGuardian) | Your account may get banned if you got caught cheating |
 | Have whatsapp on god power like view deleted messages and more | You may not be able to log in to your whatsapp account as a primary phone |
 | Install any app with system level privileges | rooting may make your phone is more vulnerable to be hacked |
-
-
-<a name="3"></a>
-<details>
-<summary>Things we need in this tutorial :</summary>
-  - a data cable (and also prepare a backup cable)
-  - Your samsung phone of your choice (mine is samsung a12)
-  - and a computer
-</details> <br>
 
 <a name="4"></a>
 <details>
