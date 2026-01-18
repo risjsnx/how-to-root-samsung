@@ -22,6 +22,8 @@ table guide : <br>
 
 <a name="2"></a>
 before we start rooting our phone we must first understand the pros and cons of rooting
+> [!WARNING]
+> This tutorial may delete your data so it is always better to backup first
 
 | Pros | Cons |
 |------------|-------------|
