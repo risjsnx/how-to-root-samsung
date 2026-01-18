@@ -15,9 +15,9 @@ table guide : <br>
 <a name="3"></a>
 <details>
 <summary>Things we need in this tutorial :</summary>
-  - a data cable (and also prepare a backup cable)
-  - Your samsung phone of your choice (mine is samsung a12)
-  - and a computer
+  - a data cable (and also prepare a backup cable)<br>
+  - Your samsung phone of your choice (mine is samsung a12)<br>
+  - and a computer<br>
 </details> <br>
 
 <a name="2"></a>
@@ -34,35 +34,35 @@ before we start rooting our phone we must first understand the pros and cons of 
 <a name="4"></a>
 <details>
 <summary>Check your phone software version nam</summary>
-  1.Go to your settings
-  2.Scroll down until you see about phone
-  3.Click on "about phone" then click on "Software versiom"
-  4.Under "Baseband version" you will a string numbers and characters 
-  5.Screenshot it so you don't have to remember it
+  1.Go to your settings<br>
+  2.Scroll down until you see about phone<br>
+  3.Click on "about phone" then click on "Software versiom"<br>
+  4.Under "Baseband version" you will a string numbers and characters <br>
+  5.Screenshot it so you don't have to remember it <br>
 </details> <br>
 
 <a name="5"></a>
 <details>
 <summary>How to unlock your bootloader</summary>
-  1.Go to your settings
-  2.Scroll down until you see about phone
-  3.Click on "about phone" then click on "Software versiom"
-  4.Tap "build number" 5 times until pin dialog pop up
-  5.Enter your pin and go to the main menu
-  6.scroll down and then you will see a new menu pop up called "developer options" click it
-  7.Find "OEM Unlocking" and enable it
-  8.And also enable USB debugging
-  9.now power off your device
-  10.hold down vol+ and vol- button and plug a usb cable while connected to your laptop
-  11.then a warning will pop up, long press vol+ button, then wait until your phone is restarted
+  1.Go to your settings <br>
+  2.Scroll down until you see about phone <br>
+  3.Click on "about phone" then click on "Software versiom" <br>
+  4.Tap "build number" 5 times until pin dialog pop up <br>
+  5.Enter your pin and go to the main menu <br>
+  6.scroll down and then you will see a new menu pop up called "developer options" click it <br>
+  7.Find "OEM Unlocking" and enable it <br>
+  8.And also enable USB debugging <br>
+  9.now power off your device <br>
+  10.hold down vol+ and vol- button and plug a usb cable while connected to your laptop <br>
+  11.then a warning will pop up, long press vol+ button, then wait until your phone is restarted <br>
 </details> <br>
 
 
 <a name="6"></a> #fix this
 <details>
 <summary>How to patch your samsung firmware</summary>
-  1.download your firmware from samfw.com and make sure the version is correct with number 4
-  2.Install magisk v24.2 from [here](https://github.com/topjohnwu/Magisk/releases/tag/v24.2)
-  3.extract the downloaded firmware
-  4.patch your "AP" firmware
+  1.download your firmware from samfw.com and make sure the version is correct with number 4 <br>
+  2.Install magisk v24.2 from [here](https://github.com/topjohnwu/Magisk/releases/tag/v24.2) <br>
+  3.extract the downloaded firmware <br>
+  4.patch your "AP" firmware <br>
 </details> <br>
