@@ -64,7 +64,7 @@ before we start rooting our phone we must first understand the pros and cons of 
 <details>
 <summary>How to patch your samsung firmware</summary>
   1.download your firmware from samfw.com and make sure the version is correct with number 4 <br>
-  2.Install magisk v24.2 from [here](https://github.com/topjohnwu/Magisk/releases/tag/v24.2) <br>
+  2.Install magisk v24.2 from https://github.com/topjohnwu/Magisk/releases/tag/v24.2 <br>
   3.extract the downloaded firmware <br>
   4.patch your "AP" firmware <br>
 </details> <br>
