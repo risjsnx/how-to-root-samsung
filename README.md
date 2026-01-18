@@ -1,2 +1,1 @@
-# how-to-root-samsung
-how to root samsung devices
+# How to root your samsung device
